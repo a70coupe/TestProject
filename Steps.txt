@@ -1,0 +1,33 @@
+Install GIT, Editor, SSH, Chef
+
+After installing GIT
+git config --global user.name Colby.Dibble
+git config --global user.email colby.dibble.ctr@us.af.mil
+
+Create folder
+ex: C:\Users\Administrator\Documents\GIT_Source
+
+Creating repo
+Create folder C:\Users\Administrator\Documents\GIT_Source\TestProject
+in powershell git initf
+
+git status
+
+Add files
+git add <filename>
+
+git commit -m "message you want"
+
+git log will show commit
+
+git diff shows changes
+
+github.com/oxhobbs/kungfu
+Clone or download https://github.com/OxHobbs/kungfu.git
+
+git clone https://github.com/OxHobbs/kungfu.git
+
+create/update file(s)
+
+git add file
+git push
