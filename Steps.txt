@@ -33,7 +33,7 @@ git add file
 git push
 
 git clone
-
+To go to master git checkout master
 To create a branch: git checkout -b <branchname>
 
 to merge your branch into master
