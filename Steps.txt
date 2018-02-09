@@ -31,3 +31,5 @@ create/update file(s)
 
 git add file
 git push
+
+git clone
