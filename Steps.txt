@@ -33,3 +33,7 @@ git add file
 git push
 
 git clone
+
+git checkout -b <branchname>
+
+commit change
