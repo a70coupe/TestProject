@@ -34,6 +34,8 @@ git push
 
 git clone
 
-git checkout -b <branchname>
+To create a branch: git checkout -b <branchname>
 
-commit change
+to merge your branch into master
+git checkout master
+git merge <branchname>
