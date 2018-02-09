@@ -39,3 +39,7 @@ To create a branch: git checkout -b <branchname>
 to merge your branch into master
 git checkout master
 git merge <branchname>
+
+git branch --list
+git branch --remote
+git branch -all
